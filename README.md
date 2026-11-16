@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mantu Kumar 👋
 
-<!--
-**mantu-kumar05/mantu-kumar05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science and Engineering student at GITAM University (Class of 2027), building full-stack and data-driven projects with a focus on payments and financial operations.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Stack |
+|---|---|---|
+| [FinOps Autopilot](https://github.com/mantu-kumar05/finops-autopilot) | Payment reconciliation platform: matches payments to settlements, flags exceptions and detects anomalies with ML | FastAPI, PostgreSQL, SQLAlchemy, scikit-learn, React |
+| [PayFlow](https://github.com/mantu-kumar05/payflow) | Payment operations dashboard with transaction search, revenue monitoring and customer management | Next.js, React, TypeScript, Tailwind CSS |
+| [Finance Analytics System](https://github.com/mantu-kumar05/Finance-Analytics-System) | JWT-secured REST API with per-user income, expense and savings analytics, plus a Streamlit dashboard | Python, FastAPI, SQLite, Pandas, Streamlit, Pytest |
+| [ComplaintPortal](https://github.com/mantu-kumar05/ComplaintPortal) | Complaint management system with role-based access for users and admins | Java, JSP, Servlets, JDBC, MySQL, Tomcat |
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, JavaScript, TypeScript, SQL
+
+**Backend:** FastAPI, Servlets/JSP, REST APIs, JWT authentication
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Data & ML:** Pandas, scikit-learn, Matplotlib, Plotly, Streamlit
+
+**Databases:** PostgreSQL, MySQL, SQLite
+
+**Tools:** Git, GitHub, VS Code, Eclipse, Apache Tomcat, Pytest
+
+## 💼 Experience
+
+**Full Stack Development Intern** at InlighnX Global Pvt. Ltd. (Jun to Jul 2025)
+
+## 🔗 Links
+
+- Portfolio: [mantu-portfolio-eight.vercel.app](https://mantu-portfolio-eight.vercel.app)
+- LinkedIn: add your profile link here
